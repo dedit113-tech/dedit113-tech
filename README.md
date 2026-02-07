@@ -57,7 +57,7 @@
 ### 📫 Как со мной связаться:
 <div align="center">
 
-[![Telegram](@DanielHTNL)
+[![Telegram](https://t.me/DanielHTNL
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН)
 
 </div>
